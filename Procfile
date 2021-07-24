@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run HTDSC05_Demo_Titanic.py
